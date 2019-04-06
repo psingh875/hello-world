@@ -1,2 +1,4 @@
 # hello-world
-beginning github
+Hi!
+
+Random paragraph describing me 
